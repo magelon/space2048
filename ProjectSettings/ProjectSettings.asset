@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: lon
-  productName: HappyCup
+  productName: 2048
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.5564703, g: 0.56606895, b: 0.5754717, a: 1}
@@ -155,7 +155,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.lon.happyCup
+    Android: com.lon.2048
     Standalone: unity.HitCode.Take The Bread
     Tizen: com.hitcode.takethebread
     iOS: com.hitcode.takethebread
