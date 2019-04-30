@@ -67,7 +67,7 @@ public class SwipeGesture1 : MonoBehaviour {
                     return; // no? bye !
             }
             // the movement on Y axis is larger than the third size screen
-            if (deltaY >= _height / 3 || deltaY <= -_height / 3) {
+            if (deltaY >= _height / 4 || deltaY <= -_height / 4) {
                 // our movement goes up
                 if (startPosition.y < endPosition.y)
                     GetComponent<Manager>().Move(0);
